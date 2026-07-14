@@ -1,2 +1,2 @@
 # Github-Analyzer
-GH Analyzer is a modern GitHub profile analytics web application built with React, TypeScript, TanStack Router, React Query, Tailwind CSS, Framer Motion, and Recharts. It allows users to search any GitHub username and explore detailed profile statistics, repository insights, contribution activity, developer score, language usage etc..
+GH Analyzer is a modern GitHub profile analytics web application built with React, TypeScript, TanStack Router, React Query, Tailwind CSS, Framer Motion, and Recharts. It allows users to search any GitHub username and explore detailed profile statistics, repository insights, contribution activity, developer score, language usage, and much more through a beautiful and interactive interface.
