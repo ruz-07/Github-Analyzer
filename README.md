@@ -23,9 +23,6 @@ The application fetches real-time data from the **GitHub REST API** and presents
 - Save favorite profiles
 - Recent search history
 - Custom accent color
-- Responsive design
-- Smooth animations
-
 ---
 
 ## Tech Stack
