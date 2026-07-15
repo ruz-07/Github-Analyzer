@@ -118,8 +118,6 @@ npm run build
 - Profile Completion
 - Repository Comparison
 - Favorites Management
-- Recent Searches
-- Settings
 
 ---
 
