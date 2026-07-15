@@ -127,7 +127,6 @@ npm run build
 - Organization Analytics
 - Repository Filtering and Sorting
 - Shareable Analytics Reports
-- GraphQL Contribution Calendar
 
 ---
 
