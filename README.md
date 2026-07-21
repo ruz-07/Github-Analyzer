@@ -113,7 +113,6 @@ npm run build
 - Developer Score
 - Profile Completion
 - Repository Comparison
-- Favorites Management
 
 ---
 
