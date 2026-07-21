@@ -21,8 +21,7 @@ The application fetches real-time data from the **GitHub REST API** and presents
 - Profile completion indicator
 - Compare two GitHub profiles
 - Save favorite profiles
-- Recent search history
-- Custom accent color
+
 ---
 
 ## Tech Stack
